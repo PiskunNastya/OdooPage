@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Appetite';
+	src: url('Appetite/appetite.eot'); /* IE 9 Compatibility Mode */
+	src: url('Appetite/appetite.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('Appetite/appetite.woff2') format('woff2'), /* Super Modern Browsers */
+		url('Appetite/appetite.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('Appetite/appetite.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('Appetite/appetite.svg#appetite') format('svg'); /* Chrome < 4, Legacy iOS */
+}
